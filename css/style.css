@@ -1156,4 +1156,7 @@ text-shadow: none;
 		font-size: 2em;
 	}
 
-	
+.space
+{
+	padding: 10px;
+}
